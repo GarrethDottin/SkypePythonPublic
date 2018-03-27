@@ -1,0 +1,4 @@
+GitPython
+Skype4Py
+tweepy
+praw
